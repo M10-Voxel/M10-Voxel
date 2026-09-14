@@ -1,15 +1,14 @@
 -------------------------------------------
 
-## Currently working on my Dual Study Program at RWTH/FH-Aachen
+## I am currently working on my dual study programme at RWTH/FH Aachen.
 
-Work includes *Full-Stack Web Development* with `Next.js` (`React`, `Three.js`, ...) and work on a Virtual Reality Unity Project.
+Work includes *Full-Stack Web Development* with `Next.js` (`React`, `Three.js`, ...), and work on a Virtual Reality Unity Project.
 
-## Personal interests
+## Personal interests:
 
-Mostly *Game Development* in Godot with `C#`, including Asset Creation, Music and Sound Design.
+Mostly *Game Development* in Godot with `C#`, including Asset Creation, Music, and Sound Design.
 
-
-Specifically Art and Music are interests I follow on their own.
+Specifically, *Art* and *Music* are interests I follow on their own.
 
 -------------------------------------------
 
