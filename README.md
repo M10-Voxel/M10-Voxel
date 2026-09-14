@@ -1,5 +1,16 @@
 -------------------------------------------
 
+## Currently working on my Dual Study Program at RWTH/FH-Aachen
+
+Work includes *Full-Stack Web Development* with `Next.js` (`React`, `Three.js`, ...) and work on a Virtual Reality Unity Project.
+
+## Personal interests
+
+Mostly *Game Development* in Godot with `C#`, including Asset Creation, Music and Sound Design.
+Specifically Art and Music are interests I follow on their own.
+
+-------------------------------------------
+
 <!--
 **M10-Voxel/M10-Voxel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
