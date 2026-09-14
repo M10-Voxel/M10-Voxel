@@ -7,6 +7,8 @@ Work includes *Full-Stack Web Development* with `Next.js` (`React`, `Three.js`, 
 ## Personal interests
 
 Mostly *Game Development* in Godot with `C#`, including Asset Creation, Music and Sound Design.
+
+
 Specifically Art and Music are interests I follow on their own.
 
 -------------------------------------------
